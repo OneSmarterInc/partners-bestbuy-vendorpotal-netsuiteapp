@@ -3,6 +3,7 @@ import { Box, Heading, Input, Table, Thead, Tbody, Tr, Th, Td, Button, VStack, H
 import { useTable, useSortBy, useGlobalFilter } from 'react-table';
 import Navbar from '../components/Navbar';
 import inventory from './Orders.json';
+import Footer from '../components/Footer';
 
 const Inventory = () => {
   const data = useMemo(() => inventory, []);
@@ -90,6 +91,7 @@ const Inventory = () => {
           </Tbody>
         </Table>
       </Box>
+      <Footer />
     </>
   );
 };
