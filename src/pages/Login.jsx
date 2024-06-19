@@ -12,7 +12,7 @@ const LoginPage = () => {
 
   const handleLogin = (event) => {
     event.preventDefault();
-    if (username === '1' && password === '1') {
+    if (username === 'tsiegmund@harvestsports.com' && password === 'RobinOrange1205#') {
       setIsLoggedIn(true);
       setErrorMessage('');
       navigate('/home');
