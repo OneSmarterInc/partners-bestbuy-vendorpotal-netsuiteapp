@@ -1,0 +1,344 @@
+[
+    {
+        "PAYMENT DATE":"2024-06-13T00:00:00.000",
+        "INVOICE NUMBER":5356985,
+        "INVOICE AMOUNT":"$539,848",
+        "DISCOUNTS":"$19,672",
+        "PAID AMOUNT":"$520,176",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-06-11T00:00:00.000",
+        "INVOICE NUMBER":5356985,
+        "INVOICE AMOUNT":"$414,631",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$414,631",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-06-06T00:00:00.000",
+        "INVOICE NUMBER":5356901,
+        "INVOICE AMOUNT":"$842,337",
+        "DISCOUNTS":"$16,877",
+        "PAID AMOUNT":"$825,461",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-06-03T00:00:00.000",
+        "INVOICE NUMBER":5356738,
+        "INVOICE AMOUNT":"$364,669",
+        "DISCOUNTS":"$18,445",
+        "PAID AMOUNT":"$346,225",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-05-29T00:00:00.000",
+        "INVOICE NUMBER":5356738,
+        "INVOICE AMOUNT":"$616,843",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$616,843",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-05-20T00:00:00.000",
+        "INVOICE NUMBER":5356429,
+        "INVOICE AMOUNT":"$876,034",
+        "DISCOUNTS":"$17,932",
+        "PAID AMOUNT":"$858,102",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-05-14T00:00:00.000",
+        "INVOICE NUMBER":5356459,
+        "INVOICE AMOUNT":"$894,818",
+        "DISCOUNTS":"$15,303",
+        "PAID AMOUNT":"$879,515",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-05-13T00:00:00.000",
+        "INVOICE NUMBER":5356372,
+        "INVOICE AMOUNT":"$924,971",
+        "DISCOUNTS":"$40,365",
+        "PAID AMOUNT":"$884,606",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-05-01T00:00:00.000",
+        "INVOICE NUMBER":5356008,
+        "INVOICE AMOUNT":"$967,494",
+        "DISCOUNTS":"$21,285",
+        "PAID AMOUNT":"$946,209",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-04-11T00:00:00.000",
+        "INVOICE NUMBER":5355754,
+        "INVOICE AMOUNT":"$553,054",
+        "DISCOUNTS":"$29,605",
+        "PAID AMOUNT":"$523,449",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-04-08T00:00:00.000",
+        "INVOICE NUMBER":5355754,
+        "INVOICE AMOUNT":"$399,629",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$399,629",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-04-03T00:00:00.000",
+        "INVOICE NUMBER":5355628,
+        "INVOICE AMOUNT":"$455,688",
+        "DISCOUNTS":"$16,002",
+        "PAID AMOUNT":"$439,686",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-04-01T00:00:00.000",
+        "INVOICE NUMBER":5355628,
+        "INVOICE AMOUNT":"$417,616",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$417,616",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-03-22T00:00:00.000",
+        "INVOICE NUMBER":5354884,
+        "INVOICE AMOUNT":"$965,601",
+        "DISCOUNTS":"$17,556",
+        "PAID AMOUNT":"$948,045",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-03-18T00:00:00.000",
+        "INVOICE NUMBER":5354805,
+        "INVOICE AMOUNT":"$941,169",
+        "DISCOUNTS":"$15,407",
+        "PAID AMOUNT":"$925,762",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-03-07T00:00:00.000",
+        "INVOICE NUMBER":5354564,
+        "INVOICE AMOUNT":"$452,186",
+        "DISCOUNTS":"$29,113",
+        "PAID AMOUNT":"$423,074",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-03-04T00:00:00.000",
+        "INVOICE NUMBER":5354564,
+        "INVOICE AMOUNT":"$516,730",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$516,730",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-29T00:00:00.000",
+        "INVOICE NUMBER":5354368,
+        "INVOICE AMOUNT":"$725,135",
+        "DISCOUNTS":"$75,000",
+        "PAID AMOUNT":"$650,135",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-27T00:00:00.000",
+        "INVOICE NUMBER":5354368,
+        "INVOICE AMOUNT":"$158,643",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$158,643",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-26T00:00:00.000",
+        "INVOICE NUMBER":5354322,
+        "INVOICE AMOUNT":"$948,688",
+        "DISCOUNTS":"$20,750",
+        "PAID AMOUNT":"$927,938",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-21T00:00:00.000",
+        "INVOICE NUMBER":5353967,
+        "INVOICE AMOUNT":"$849,788",
+        "DISCOUNTS":"$20,000",
+        "PAID AMOUNT":"$829,788",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-13T00:00:00.000",
+        "INVOICE NUMBER":5353551,
+        "INVOICE AMOUNT":"$932,720",
+        "DISCOUNTS":"$35,000",
+        "PAID AMOUNT":"$897,720",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-08T00:00:00.000",
+        "INVOICE NUMBER":5352421,
+        "INVOICE AMOUNT":"$886,951",
+        "DISCOUNTS":"$30,000",
+        "PAID AMOUNT":"$856,951",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-07T00:00:00.000",
+        "INVOICE NUMBER":5352369,
+        "INVOICE AMOUNT":"$843,696",
+        "DISCOUNTS":"$42,000",
+        "PAID AMOUNT":"$801,696",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-06T00:00:00.000",
+        "INVOICE NUMBER":5252060,
+        "INVOICE AMOUNT":"$610,225",
+        "DISCOUNTS":"$39,750",
+        "PAID AMOUNT":"$570,475",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-02T00:00:00.000",
+        "INVOICE NUMBER":5349322,
+        "INVOICE AMOUNT":"$184,963",
+        "DISCOUNTS":"$42,500",
+        "PAID AMOUNT":"$142,463",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-02-02T00:00:00.000",
+        "INVOICE NUMBER":5352060,
+        "INVOICE AMOUNT":"$305,007",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$305,007",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-31T00:00:00.000",
+        "INVOICE NUMBER":5351614,
+        "INVOICE AMOUNT":"$932,869",
+        "DISCOUNTS":"$25,000",
+        "PAID AMOUNT":"$907,869",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-30T00:00:00.000",
+        "INVOICE NUMBER":5349322,
+        "INVOICE AMOUNT":"$777,983",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$777,983",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-19T00:00:00.000",
+        "INVOICE NUMBER":5348859,
+        "INVOICE AMOUNT":"$186,147",
+        "DISCOUNTS":"$25,000",
+        "PAID AMOUNT":"$161,147",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-19T00:00:00.000",
+        "INVOICE NUMBER":5347478,
+        "INVOICE AMOUNT":"$510,997",
+        "DISCOUNTS":"$27,000",
+        "PAID AMOUNT":"$483,997",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-17T00:00:00.000",
+        "INVOICE NUMBER":5348859,
+        "INVOICE AMOUNT":"$799,426",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$799,426",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-16T00:00:00.000",
+        "INVOICE NUMBER":5347478,
+        "INVOICE AMOUNT":"$397,417",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$397,417",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-12T00:00:00.000",
+        "INVOICE NUMBER":5349098,
+        "INVOICE AMOUNT":"$133,516",
+        "DISCOUNTS":"$40,000",
+        "PAID AMOUNT":"$93,516",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-11T00:00:00.000",
+        "INVOICE NUMBER":5349098,
+        "INVOICE AMOUNT":"$493,707",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$493,707",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-04T00:00:00.000",
+        "INVOICE NUMBER":5350092,
+        "INVOICE AMOUNT":"$495,317",
+        "DISCOUNTS":"$55,000",
+        "PAID AMOUNT":"$440,317",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2024-01-02T00:00:00.000",
+        "INVOICE NUMBER":5350092,
+        "INVOICE AMOUNT":"$428,329",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$428,329",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    },
+    {
+        "PAYMENT DATE":"2023-12-26T00:00:00.000",
+        "INVOICE NUMBER":5346125,
+        "INVOICE AMOUNT":"$707,316",
+        "DISCOUNTS":"$0",
+        "PAID AMOUNT":"$707,316",
+        "CURRENCY":"USD",
+        "PAYMENT TYPE":"TRANSFER"
+    }
+]
