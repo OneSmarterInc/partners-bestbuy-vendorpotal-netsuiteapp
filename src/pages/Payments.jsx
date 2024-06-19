@@ -65,7 +65,7 @@ const Payments = () => {
         <Input
           value={globalFilter || ''}
           onChange={(e) => setGlobalFilter(e.target.value)}
-          placeholder="Search Inventory..."
+          placeholder="Search Remittances..."
           mb="20px"
         />
         <Table {...getTableProps()} variant="striped" colorScheme="">

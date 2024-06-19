@@ -50,7 +50,7 @@ const Inventory = () => {
         <Input
           value={globalFilter || ''}
           onChange={(e) => setGlobalFilter(e.target.value)}
-          placeholder="Search Inventory..."
+          placeholder="Search Orders..."
           mb="20px"
         />
         <Table {...getTableProps()} variant="striped" colorScheme="">

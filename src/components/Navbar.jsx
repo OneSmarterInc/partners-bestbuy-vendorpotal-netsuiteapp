@@ -26,7 +26,7 @@ const Navbar = () => {
                 </HStack>
                 <HStack spacing={4}>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/inventory') }}>Inventory</Button>
-                    <Button variant="link" colorScheme="white" onClick={() => { navigate('/order') }}>Order</Button>
+                    <Button variant="link" colorScheme="white" onClick={() => { navigate('/order') }}>Orders</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/remittances') }}>Remittances</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/planing') }}>Planing</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/sustainability') }}>Sustainability</Button>
