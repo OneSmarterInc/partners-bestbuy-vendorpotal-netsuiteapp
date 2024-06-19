@@ -1,284 +1,284 @@
 [
     {
-        "INTERNAL ID":181840,
-        "ORDER DATE":"2024-06-17T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K251",
-        "PO AMOUNT":"$599,671"
+        "INTERNAL ID": 181840,
+        "ORDER DATE": "06/17/2024",
+        "PURCHASE ORDER": "1253MG343K251",
+        "PO AMOUNT": "$599,671.24"
     },
     {
-        "INTERNAL ID":181824,
-        "ORDER DATE":"2024-06-13T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K240",
-        "PO AMOUNT":"$823,788"
+        "INTERNAL ID": 181824,
+        "ORDER DATE": "06/13/2024",
+        "PURCHASE ORDER": "1253MG343K240",
+        "PO AMOUNT": "$823,788.08"
     },
     {
-        "INTERNAL ID":181812,
-        "ORDER DATE":"2024-06-10T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K229",
-        "PO AMOUNT":"$620,180"
+        "INTERNAL ID": 181812,
+        "ORDER DATE": "06/10/2024",
+        "PURCHASE ORDER": "1253MG343K229",
+        "PO AMOUNT": "$620,180.37"
     },
     {
-        "INTERNAL ID":181812,
-        "ORDER DATE":"2024-06-10T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K231",
-        "PO AMOUNT":"$621,295"
+        "INTERNAL ID": 181812,
+        "ORDER DATE": "06/10/2024",
+        "PURCHASE ORDER": "1253MG343K231",
+        "PO AMOUNT": "$621,294.87"
     },
     {
-        "INTERNAL ID":181800,
-        "ORDER DATE":"2024-06-07T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K220",
-        "PO AMOUNT":"$826,797"
+        "INTERNAL ID": 181800,
+        "ORDER DATE": "06/07/2024",
+        "PURCHASE ORDER": "1253MG343K220",
+        "PO AMOUNT": "$826,796.52"
     },
     {
-        "INTERNAL ID":181788,
-        "ORDER DATE":"2024-06-04T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K212",
-        "PO AMOUNT":"$620,992"
+        "INTERNAL ID": 181788,
+        "ORDER DATE": "06/04/2024",
+        "PURCHASE ORDER": "1253MG343K212",
+        "PO AMOUNT": "$620,991.75"
     },
     {
-        "INTERNAL ID":181788,
-        "ORDER DATE":"2024-06-04T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K204",
-        "PO AMOUNT":"$578,994"
+        "INTERNAL ID": 181788,
+        "ORDER DATE": "06/04/2024",
+        "PURCHASE ORDER": "1253MG343K204",
+        "PO AMOUNT": "$578,993.75"
     },
     {
-        "INTERNAL ID":181744,
-        "ORDER DATE":"2024-05-24T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K197",
-        "PO AMOUNT":"$933,814"
+        "INTERNAL ID": 181744,
+        "ORDER DATE": "05/24/2024",
+        "PURCHASE ORDER": "1253MG343K197",
+        "PO AMOUNT": "$933,813.63"
     },
     {
-        "INTERNAL ID":181740,
-        "ORDER DATE":"2024-05-23T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K188",
-        "PO AMOUNT":"$944,557"
+        "INTERNAL ID": 181740,
+        "ORDER DATE": "05/23/2024",
+        "PURCHASE ORDER": "1253MG343K188",
+        "PO AMOUNT": "$944,557.25"
     },
     {
-        "INTERNAL ID":181716,
-        "ORDER DATE":"2024-05-17T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K179",
-        "PO AMOUNT":"$831,638"
+        "INTERNAL ID": 181716,
+        "ORDER DATE": "05/17/2024",
+        "PURCHASE ORDER": "1253MG343K179",
+        "PO AMOUNT": "$831,637.63"
     },
     {
-        "INTERNAL ID":181684,
-        "ORDER DATE":"2024-05-09T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K166",
-        "PO AMOUNT":"$884,013"
+        "INTERNAL ID": 181684,
+        "ORDER DATE": "05/09/2024",
+        "PURCHASE ORDER": "1253MG343K166",
+        "PO AMOUNT": "$884,012.75"
     },
     {
-        "INTERNAL ID":181676,
-        "ORDER DATE":"2024-05-07T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K158",
-        "PO AMOUNT":"$923,071"
+        "INTERNAL ID": 181676,
+        "ORDER DATE": "05/07/2024",
+        "PURCHASE ORDER": "1253MG343K158",
+        "PO AMOUNT": "$923,070.71"
     },
     {
-        "INTERNAL ID":181632,
-        "ORDER DATE":"2024-04-26T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K149",
-        "PO AMOUNT":"$847,668"
+        "INTERNAL ID": 181632,
+        "ORDER DATE": "04/26/2024",
+        "PURCHASE ORDER": "1253MG343K149",
+        "PO AMOUNT": "$847,668.13"
     },
     {
-        "INTERNAL ID":181624,
-        "ORDER DATE":"2024-04-24T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K140",
-        "PO AMOUNT":"$960,365"
+        "INTERNAL ID": 181624,
+        "ORDER DATE": "04/24/2024",
+        "PURCHASE ORDER": "1253MG343K140",
+        "PO AMOUNT": "$960,365.22"
     },
     {
-        "INTERNAL ID":181600,
-        "ORDER DATE":"2024-04-18T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K127",
-        "PO AMOUNT":"$932,348"
+        "INTERNAL ID": 181600,
+        "ORDER DATE": "04/18/2024",
+        "PURCHASE ORDER": "1253MG343K127",
+        "PO AMOUNT": "$932,348.21"
     },
     {
-        "INTERNAL ID":181576,
-        "ORDER DATE":"2024-04-12T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K116",
-        "PO AMOUNT":"$975,420"
+        "INTERNAL ID": 181576,
+        "ORDER DATE": "04/12/2024",
+        "PURCHASE ORDER": "1253MG343K116",
+        "PO AMOUNT": "$975,419.77"
     },
     {
-        "INTERNAL ID":181548,
-        "ORDER DATE":"2024-04-05T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K105",
-        "PO AMOUNT":"$908,044"
+        "INTERNAL ID": 181548,
+        "ORDER DATE": "04/05/2024",
+        "PURCHASE ORDER": "1253MG343K105",
+        "PO AMOUNT": "$908,044.31"
     },
     {
-        "INTERNAL ID":181516,
-        "ORDER DATE":"2024-03-28T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K097",
-        "PO AMOUNT":"$881,476"
+        "INTERNAL ID": 181516,
+        "ORDER DATE": "03/28/2024",
+        "PURCHASE ORDER": "1253MG343K097",
+        "PO AMOUNT": "$881,476.11"
     },
     {
-        "INTERNAL ID":181488,
-        "ORDER DATE":"2024-03-21T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K093",
-        "PO AMOUNT":"$894,106"
+        "INTERNAL ID": 181488,
+        "ORDER DATE": "03/21/2024",
+        "PURCHASE ORDER": "1253MG343K093",
+        "PO AMOUNT": "$894,106.09"
     },
     {
-        "INTERNAL ID":181480,
-        "ORDER DATE":"2024-03-19T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K082",
-        "PO AMOUNT":"$792,800"
+        "INTERNAL ID": 181480,
+        "ORDER DATE": "03/19/2024",
+        "PURCHASE ORDER": "1253MG343K082",
+        "PO AMOUNT": "$792,800.11"
     },
     {
-        "INTERNAL ID":181464,
-        "ORDER DATE":"2024-03-15T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K074",
-        "PO AMOUNT":"$939,449"
+        "INTERNAL ID": 181464,
+        "ORDER DATE": "03/15/2024",
+        "PURCHASE ORDER": "1253MG343K074",
+        "PO AMOUNT": "$939,448.69"
     },
     {
-        "INTERNAL ID":181432,
-        "ORDER DATE":"2024-03-07T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K061",
-        "PO AMOUNT":"$916,200"
+        "INTERNAL ID": 181432,
+        "ORDER DATE": "03/07/2024",
+        "PURCHASE ORDER": "1253MG343K061",
+        "PO AMOUNT": "$916,199.52"
     },
     {
-        "INTERNAL ID":181400,
-        "ORDER DATE":"2024-02-28T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K047",
-        "PO AMOUNT":"$954,479"
+        "INTERNAL ID": 181400,
+        "ORDER DATE": "02/28/2024",
+        "PURCHASE ORDER": "1253MG343K047",
+        "PO AMOUNT": "$954,478.64"
     },
     {
-        "INTERNAL ID":181380,
-        "ORDER DATE":"2024-02-23T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K042",
-        "PO AMOUNT":"$842,337"
+        "INTERNAL ID": 181380,
+        "ORDER DATE": "02/23/2024",
+        "PURCHASE ORDER": "1253MG343K042",
+        "PO AMOUNT": "$842,337.47"
     },
     {
-        "INTERNAL ID":181344,
-        "ORDER DATE":"2024-02-14T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K036",
-        "PO AMOUNT":"$981,512"
+        "INTERNAL ID": 181344,
+        "ORDER DATE": "02/14/2024",
+        "PURCHASE ORDER": "1253MG343K036",
+        "PO AMOUNT": "$981,511.77"
     },
     {
-        "INTERNAL ID":181308,
-        "ORDER DATE":"2024-02-05T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K025",
-        "PO AMOUNT":"$893,965"
+        "INTERNAL ID": 181308,
+        "ORDER DATE": "02/05/2024",
+        "PURCHASE ORDER": "1253MG343K025",
+        "PO AMOUNT": "$893,965.19"
     },
     {
-        "INTERNAL ID":181284,
-        "ORDER DATE":"2024-01-30T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K017",
-        "PO AMOUNT":"$894,818"
+        "INTERNAL ID": 181284,
+        "ORDER DATE": "01/30/2024",
+        "PURCHASE ORDER": "1253MG343K017",
+        "PO AMOUNT": "$894,818.13"
     },
     {
-        "INTERNAL ID":181264,
-        "ORDER DATE":"2024-01-25T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343K009",
-        "PO AMOUNT":"$924,971"
+        "INTERNAL ID": 181264,
+        "ORDER DATE": "01/25/2024",
+        "PURCHASE ORDER": "1253MG343K009",
+        "PO AMOUNT": "$924,971.46"
     },
     {
-        "INTERNAL ID":181212,
-        "ORDER DATE":"2024-01-12T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J997",
-        "PO AMOUNT":"$967,494"
+        "INTERNAL ID": 181212,
+        "ORDER DATE": "01/12/2024",
+        "PURCHASE ORDER": "1253MG343J997",
+        "PO AMOUNT": "$967,493.87"
     },
     {
-        "INTERNAL ID":181128,
-        "ORDER DATE":"2023-12-22T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J973",
-        "PO AMOUNT":"$952,733"
+        "INTERNAL ID": 181128,
+        "ORDER DATE": "12/22/2023",
+        "PURCHASE ORDER": "1253MG343J973",
+        "PO AMOUNT": "$952,732.93"
     },
     {
-        "INTERNAL ID":181100,
-        "ORDER DATE":"2023-12-15T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J962",
-        "PO AMOUNT":"$873,304"
+        "INTERNAL ID": 181100,
+        "ORDER DATE": "12/15/2023",
+        "PURCHASE ORDER": "1253MG343J962",
+        "PO AMOUNT": "$873,304.25"
     },
     {
-        "INTERNAL ID":180988,
-        "ORDER DATE":"2023-11-17T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J952",
-        "PO AMOUNT":"$965,601"
+        "INTERNAL ID": 180988,
+        "ORDER DATE": "11/17/2023",
+        "PURCHASE ORDER": "1253MG343J952",
+        "PO AMOUNT": "$965,600.63"
     },
     {
-        "INTERNAL ID":180976,
-        "ORDER DATE":"2023-11-14T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J944",
-        "PO AMOUNT":"$941,169"
+        "INTERNAL ID": 180976,
+        "ORDER DATE": "11/14/2023",
+        "PURCHASE ORDER": "1253MG343J944",
+        "PO AMOUNT": "$941,169.23"
     },
     {
-        "INTERNAL ID":180932,
-        "ORDER DATE":"2023-11-03T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J937",
-        "PO AMOUNT":"$968,916"
+        "INTERNAL ID": 180932,
+        "ORDER DATE": "11/03/2023",
+        "PURCHASE ORDER": "1253MG343J937",
+        "PO AMOUNT": "$968,916.25"
     },
     {
-        "INTERNAL ID":180892,
-        "ORDER DATE":"2023-10-24T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J926",
-        "PO AMOUNT":"$948,688"
+        "INTERNAL ID": 180892,
+        "ORDER DATE": "10/24/2023",
+        "PURCHASE ORDER": "1253MG343J926",
+        "PO AMOUNT": "$948,688.02"
     },
     {
-        "INTERNAL ID":180848,
-        "ORDER DATE":"2023-10-13T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J916",
-        "PO AMOUNT":"$849,788"
+        "INTERNAL ID": 180848,
+        "ORDER DATE": "10/13/2023",
+        "PURCHASE ORDER": "1253MG343J916",
+        "PO AMOUNT": "$849,788.25"
     },
     {
-        "INTERNAL ID":180792,
-        "ORDER DATE":"2023-09-29T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J904",
-        "PO AMOUNT":"$932,720"
+        "INTERNAL ID": 180792,
+        "ORDER DATE": "09/29/2023",
+        "PURCHASE ORDER": "1253MG343J904",
+        "PO AMOUNT": "$932,719.79"
     },
     {
-        "INTERNAL ID":180672,
-        "ORDER DATE":"2023-08-30T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J893",
-        "PO AMOUNT":"$843,696"
+        "INTERNAL ID": 180672,
+        "ORDER DATE": "08/30/2023",
+        "PURCHASE ORDER": "1253MG343J893",
+        "PO AMOUNT": "$843,696.41"
     },
     {
-        "INTERNAL ID":180652,
-        "ORDER DATE":"2023-08-25T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J881",
-        "PO AMOUNT":"$915,232"
+        "INTERNAL ID": 180652,
+        "ORDER DATE": "08/25/2023",
+        "PURCHASE ORDER": "1253MG343J881",
+        "PO AMOUNT": "$915,232.19"
     },
     {
-        "INTERNAL ID":180624,
-        "ORDER DATE":"2023-08-18T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J870",
-        "PO AMOUNT":"$932,869"
+        "INTERNAL ID": 180624,
+        "ORDER DATE": "08/18/2023",
+        "PURCHASE ORDER": "1253MG343J870",
+        "PO AMOUNT": "$932,869.25"
     },
     {
-        "INTERNAL ID":180588,
-        "ORDER DATE":"2023-08-09T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J861",
-        "PO AMOUNT":"$923,645"
+        "INTERNAL ID": 180588,
+        "ORDER DATE": "08/09/2023",
+        "PURCHASE ORDER": "1253MG343J861",
+        "PO AMOUNT": "$923,645.25"
     },
     {
-        "INTERNAL ID":180564,
-        "ORDER DATE":"2023-08-03T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J848",
-        "PO AMOUNT":"$962,947"
+        "INTERNAL ID": 180564,
+        "ORDER DATE": "08/03/2023",
+        "PURCHASE ORDER": "1253MG343J848",
+        "PO AMOUNT": "$962,946.72"
     },
     {
-        "INTERNAL ID":180552,
-        "ORDER DATE":"2023-07-31T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J841",
-        "PO AMOUNT":"$971,740"
+        "INTERNAL ID": 180552,
+        "ORDER DATE": "07/31/2023",
+        "PURCHASE ORDER": "1253MG343J841",
+        "PO AMOUNT": "$971,740.25"
     },
     {
-        "INTERNAL ID":180484,
-        "ORDER DATE":"2023-07-14T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J829",
-        "PO AMOUNT":"$908,413"
+        "INTERNAL ID": 180484,
+        "ORDER DATE": "07/14/2023",
+        "PURCHASE ORDER": "1253MG343J829",
+        "PO AMOUNT": "$908,413.48"
     },
     {
-        "INTERNAL ID":180452,
-        "ORDER DATE":"2023-07-06T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J820",
-        "PO AMOUNT":"$951,841"
+        "INTERNAL ID": 180452,
+        "ORDER DATE": "07/06/2023",
+        "PURCHASE ORDER": "1253MG343J820",
+        "PO AMOUNT": "$951,841.43"
     },
     {
-        "INTERNAL ID":180428,
-        "ORDER DATE":"2023-06-30T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J814",
-        "PO AMOUNT":"$986,356"
+        "INTERNAL ID": 180428,
+        "ORDER DATE": "06/30/2023",
+        "PURCHASE ORDER": "1253MG343J814",
+        "PO AMOUNT": "$986,355.52"
     },
     {
-        "INTERNAL ID":180420,
-        "ORDER DATE":"2023-06-28T00:00:00.000",
-        "PURCHASE ORDER":"1253MG343J808",
-        "PO AMOUNT":"$889,305"
+        "INTERNAL ID": 180420,
+        "ORDER DATE": "06/28/2023",
+        "PURCHASE ORDER": "1253MG343J808",
+        "PO AMOUNT": "$889,304.77"
     }
 ]
