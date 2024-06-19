@@ -22,14 +22,14 @@ const Navbar = () => {
                     <Heading as="h1" size="lg">|  Partner Portal</Heading>
                 </HStack>
                 <HStack spacing={4}>
+                    <Button variant="link" colorScheme="white" onClick={() => { navigate('/home') }}>Home</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/inventory') }}>Inventory</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/order') }}>Order</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/remittances') }}>Remittances</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/planing') }}>Planing</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/sustainability') }}>Sustainability</Button>
                     <Button variant="link" colorScheme="white" onClick={() => { navigate('/news') }}>News</Button>
-                    
-                    <Button variant="link" colorScheme="white" onClick={() => { navigate('/login') }}> -  Logout</Button>
+                    <Button variant="link" colorScheme="white" onClick={() => { navigate('/') }}>Logout</Button>
                 </HStack>
             </HStack>
         </Box>

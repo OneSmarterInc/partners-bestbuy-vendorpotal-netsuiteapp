@@ -60,7 +60,7 @@ const Payments = () => {
     <>
       <Navbar />
       <Box p="10px">
-        <Heading mb="20px">Orders</Heading>
+        <Heading mb="20px">Remittance</Heading>
         <Input
           value={globalFilter || ''}
           onChange={(e) => setGlobalFilter(e.target.value)}
